@@ -1,0 +1,12 @@
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\bin\Debug\Lab_Sheet_02.exe.config
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\bin\Debug\Lab_Sheet_02.exe
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\bin\Debug\Lab_Sheet_02.pdb
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.csproj.AssemblyReference.cache
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.Properties.Resources.resources
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.csproj.GenerateResource.cache
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.csproj.CoreCompileInputs.cache
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.exe
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.pdb
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.MainForm.resources
+C:\Users\Kuro_kitten\Documents\Visual Studio 2022\WORKS\Lab_Sheet_02\obj\Debug\Lab_Sheet_02.SetModeForm.resources
